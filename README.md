@@ -5,7 +5,11 @@ This repository contains a comprehensive analysis of key performance indicators 
 
 ## 👉 Steps Followed:
 🔍 Data Extraction: Data was extracted in the form of an Excel (.XLSX) sheet.
+
 🖌 Data Cleaning: Ensured accuracy and reliability of raw data by fixing inconsistent values and NULL entries.
+
 🔢 Data Processing: Added Year column for deeper analysis of the dataset.
+
 📊 Data Analysis: Created Pivot Tables to uncover patterns and trends.
+
 📊 Data Visualization: Developed various charts, graphs, and slicers for visualizing key insights.
